@@ -1,1 +1,2 @@
-# Searching-and-filtering
+# Cart_project
+ADD ITEMS TO CART JAVASCRIPT PROJECT
