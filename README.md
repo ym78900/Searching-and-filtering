@@ -1,2 +1,2 @@
 # Cart_project
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+Searching the product from the list
